@@ -1,9 +1,5 @@
 # Molecular Dynamics, DFT & Machine Learning Analysis
 
-[![Language: C++](https://shields.io)](https://isocpp.org)
-[![Language: Python 3](https://shields.io)](https://python.org)
-[![License: MIT](https://shields.io)](https://opensource.org)
-
 A high-performance computational chemistry toolkit combining **C++** for core physics simulations with **Python 3** for Density Functional Theory (DFT) workflows and Machine Learning (ML) trajectory analysis.
 
 ## Overview
