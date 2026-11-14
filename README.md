@@ -1,7 +1,14 @@
-# Molecular Dynamics Simulations in C
+# Molecular Dynamics, DFT & Machine Learning Analysis
 
-## Description
-This repository contains C code implementations for various molecular dynamics simulations and computational chemistry tasks. The aim is to provide efficient and reliable solutions for simulating the behavior of molecules and their interactions over time.
+[![Language: C++](https://shields.io)](https://isocpp.org)
+[![Language: Python 3](https://shields.io)](https://python.org)
+[![License: MIT](https://shields.io)](https://opensource.org)
+
+A high-performance computational chemistry toolkit combining **C++** for core physics simulations with **Python 3** for Density Functional Theory (DFT) workflows and Machine Learning (ML) trajectory analysis.
+
+## Overview
+
+This repository provides efficient, modular implementations for simulating molecular behavior and atomic interactions over time. By pairing low-level C++ execution engines with Python-based post-processing and ML pipelines, the project balances computational speed with ease of data analysis.
 
 ## Table of Contents
 - [Installation](#installation)
